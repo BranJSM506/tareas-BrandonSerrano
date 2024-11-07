@@ -1,0 +1,4 @@
+http://localhost/practica3/public/index.php/usuarios/
+
+
+http://localhost/practica3/public/index.php/usuarios?id=1
